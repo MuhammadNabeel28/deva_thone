@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87250240740",
+    "project_id": "devathone",
+    "storage_bucket": "devathone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87250240740:android:ada8b294de21cfd04b98f1",
+        "android_client_info": {
+          "package_name": "com.example.deva_thone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaPSO_mcniPWoIvju4WrsSbOq7ty6PgX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
